@@ -1,0 +1,7 @@
+total 10
+drwxr-xr-x 1 Piotr 197121  0 lip 20 19:33 ./
+drwxr-xr-x 1 Piotr 197121  0 lip 20 19:29 ../
+drwxr-xr-x 1 Piotr 197121  0 lip 20 19:30 .git/
+-rw-r--r-- 1 Piotr 197121  0 lip 20 19:33 file_list.txt
+-rw-r--r-- 1 Piotr 197121 15 lip 20 19:30 README.md
+-rw-r--r-- 1 Piotr 197121 29 lip 20 19:30 to_check.txt
